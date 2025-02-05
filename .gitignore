@@ -9,5 +9,5 @@ __pycache__/
 .DS_Store   # macOSで生成されるファイル
 Thumbs.db   # Windowsで生成されるサムネイルキャッシュ
 
-# 仮想環境（ディレクトリ名は任意）を無視
-*/venv/
+# 仮想環境env_atを無視
+env_at/
