@@ -16,7 +16,7 @@ env_at/
 attention_maps/
 data/
 lightning_logs/
-training_histiory/
+training_history/
 
 # 他の諸ファイルを無視
 main.ipynb
