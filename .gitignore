@@ -11,3 +11,13 @@ Thumbs.db   # Windowsで生成されるサムネイルキャッシュ
 
 # 仮想環境env_atを無視
 env_at/
+
+# 他のディレクトリを無視
+attention_maps/
+data/
+lightning_logs/
+training_histiory/
+
+# 他の諸ファイルを無視
+main.ipynb
+*.pptx
